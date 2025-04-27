@@ -1,1 +1,1 @@
-aaaa
+print('ola mundo')
